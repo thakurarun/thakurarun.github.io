@@ -1,0 +1,7 @@
+.navbar .navbar-brand img {
+  height: 50px;
+  margin-top: -14px;
+}
+.navbar span.glyphicon {
+  padding: 0 5px 0 0;
+}
